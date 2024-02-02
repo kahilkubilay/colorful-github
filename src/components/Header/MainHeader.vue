@@ -5,7 +5,7 @@
     </div>
     <div class="propaganda">
       <h2>colorful - github</h2>
-      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quas recusandae inventore aliquam repellendus minima placeat quis, voluptas eaque officiis ipsa veritatis laborum magnam, quia ab asperiores impedit cum quam nesciunt!</p>
+      <p>color codes for languages on github</p>
     </div>
   </header>
 </template>
@@ -46,7 +46,7 @@ header {
 }
 
 .propaganda p {
-  width: 50%;
+  
   text-align: center;
   font-size: 1.2em;
 }
