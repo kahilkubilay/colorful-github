@@ -28,7 +28,7 @@ header {
   display: inherit;
 }
 .logo img {
-  width: 5em;
+  width: 10em;
 }
 .propaganda {
   display: inherit;
@@ -46,7 +46,6 @@ header {
 }
 
 .propaganda p {
-  
   text-align: center;
   font-size: 1.2em;
 }

@@ -1,7 +1,7 @@
 <template>
   <footer>
     <a href="https://github.com/kahilkubilay/colorful-github">
-      <img src="../asset/colorful-github-logo.png" alt="link of the colorful github repo"/>
+      <img src="../asset/github-logo.png" alt="link of the colorful github repo"/>
     </a>
   </footer>
 </template>
