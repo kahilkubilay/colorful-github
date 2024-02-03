@@ -1,25 +1,7 @@
 <template>
   <main>
     <ul>
-      <li v-for="item in items" 
-        :key="item.color" 
-        @mouseover="item.isActive = true" 
-        @mouseleave="item.isActive = false"
-        @click="copyColorCode(item.color, item.label)"
-        :style="[{ 
-          'background-color': item.isActive ? `#${item.color}` : '',
-          'color': item.isActive ? `#fff` : '' 
-          }]">
-        <div class="symbol">
-          <span :style="[{ 'background-color': `#${item.color}` }]"></span>
-        </div>
-        <div class="label">
-          <span>{{ item.label }}</span>
-        </div>
-        <div class="color">
-          <span>#{{ item.color }}</span>
-        </div>
-      </li>
+      <ColorItem :items="items"/>
     </ul>
 
     <div class="popup" v-if="firePopup">
@@ -37,8 +19,11 @@
 </template>
 
 <script>
+import ColorItem from './ColorItem.vue'
+
 export default {
   name: 'MainContent',
+  components: { ColorItem },
   data() {
     return {
       isActive: false,
@@ -65,14 +50,6 @@ export default {
     }
   },
   methods: {
-    copyColorCode(code, label) {
-      this.selectedColor = code
-      this.selectedLabel = label
-      navigator.clipboard.writeText(`#${this.selectedColor}`)
-      this.firePopUpElement(this.selectedColor)
-
-      console.info(`selected ${this.selectedColor} color code`)
-    },
     firePopUpElement() {
       this.firePopup = true
 
@@ -96,27 +73,6 @@ ul {
   display: inherit;
   width: 100%;
   flex-direction: column;
-}
-li {
-  display: inherit;
-  justify-content: space-between;
-  margin-bottom: .5em;
-  border-radius: .5em;
-  background-color: #f2f2f2;
-  padding: 1em;
-  cursor: pointer;
-}
-li div {
-  display: flex;
-  flex: 1 1 0;
-  justify-content: center;
-  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
-  font-size: 1.1em;
-}
-.symbol span {
-  width: 1em;
-  height: 1em;
-  border-radius: 100%;
 }
 
 .popup {
