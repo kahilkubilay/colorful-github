@@ -23,19 +23,20 @@ export default {
   data() {
     return {
       isActive: false,
-      firePopup: false,
-      selectedColor: '',
-      selectedLabel: '',
+      firePopup: false
     }
   },
+  emits: ['userSelectedColor'],
   methods: {
     copyColorCode(code, label) {
-      this.selectedColor = code
-      this.selectedLabel = label
-      navigator.clipboard.writeText(`#${this.selectedColor}`)
-      this.firePopUpElement(this.selectedColor)
+      navigator.clipboard.writeText(`#${code}`)
 
-      console.info(`selected ${this.selectedColor} color code`)
+      this.$emit('userSelectedColor', {
+        'selectedColor': code,
+        'selectedLabel': label
+      })
+
+      console.info(`selected ${code} color code`)
     }
   }
 }
