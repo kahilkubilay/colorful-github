@@ -11,6 +11,7 @@
 <script>
 import ColorItem from './ColorItem.vue'
 import PopUp from './PopUp.vue'
+import colorSource from './../asset/colorSource.json'
 
 export default {
   name: 'MainContent',
@@ -20,23 +21,7 @@ export default {
       firePopup: false,
       selectedColor: '',
       selectedLabel: '',
-      items: [
-        {
-          'label': 'TypeScript',
-          'color': '3178c6',
-          'isActive': false
-        },
-        {
-          'label': 'Javascript',
-          'color': 'f1e05a',
-          'isActive': false
-        },
-        {
-          'label': 'CSS',
-          'color': '563d7c',
-          'isActive': false
-        }
-      ]
+      items: colorSource
     }
   },
   methods: {
