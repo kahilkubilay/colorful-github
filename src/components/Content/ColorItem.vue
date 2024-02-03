@@ -65,5 +65,6 @@ li div {
   width: 1em;
   height: 1em;
   border-radius: 100%;
+  border: 2px solid #f2f2f2;
 }
 </style>
