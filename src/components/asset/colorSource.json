@@ -31,7 +31,7 @@
   },
   {
     "label": "ABNF",
-    "color": "ccc",
+    "color": "9e6a03",
     "isActive": false,
     "source": "https://github.com/trending/abnf"
   },
@@ -169,7 +169,7 @@
   },
   {
     "label": "ASL",
-    "color": "ccc",
+    "color": "9e6a03",
     "isActive": false,
     "source": "https://github.com/trending/asl"
   },
@@ -829,7 +829,7 @@
   },
   {
     "label": "DIGITAL Command Language",
-    "color": "ccc",
+    "color": "9e6a03",
     "isActive": false,
     "source": "https://github.com/trending/digital-command-language"
   },
@@ -1627,7 +1627,7 @@
   },
   {
     "label": "Inform 7",
-    "color": "ccc",
+    "color": "9e6a03",
     "isActive": false,
     "source": "https://github.com/trending/inform-7"
   },
@@ -2149,19 +2149,19 @@
   },
   {
     "label": "Max",
-    "color": "",
+    "color": "c4a79c",
     "isActive": false,
     "source": "https://github.com/trending/max"
   },
   {
     "label": "MAXScript",
-    "color": "",
+    "color": "00a6a6",
     "isActive": false,
     "source": "https://github.com/trending/maxscript"
   },
   {
     "label": "mcfunction",
-    "color": "",
+    "color": "e22837",
     "isActive": false,
     "source": "https://github.com/trending/mcfunction"
   },
@@ -2173,7 +2173,7 @@
   },
   {
     "label": "Wikitext",
-    "color": "",
+    "color": "fc5757",
     "isActive": false,
     "source": "https://github.com/trending/wikitext"
   },
@@ -2185,13 +2185,13 @@
   },
   {
     "label": "Mermaid",
-    "color": "",
+    "color": "ff3670",
     "isActive": false,
     "source": "https://github.com/trending/mermaid"
   },
   {
     "label": "Meson",
-    "color": "",
+    "color": "007800",
     "isActive": false,
     "source": "https://github.com/trending/meson"
   },
@@ -2227,19 +2227,19 @@
   },
   {
     "label": "Mint",
-    "color": "",
+    "color": "02b046",
     "isActive": false,
     "source": "https://github.com/trending/mint"
   },
   {
     "label": "Mirah",
-    "color": "",
+    "color": "c7a938",
     "isActive": false,
     "source": "https://github.com/trending/mirah"
   },
   {
     "label": "mIRC Script",
-    "color": "",
+    "color": "3d57c3",
     "isActive": false,
     "source": "https://github.com/trending/mirc-script"
   },
@@ -2257,13 +2257,13 @@
   },
   {
     "label": "Modula-2",
-    "color": "",
+    "color": "10253f",
     "isActive": false,
     "source": "https://github.com/trending/modula-2"
   },
   {
     "label": "Modula-3",
-    "color": "",
+    "color": "223388",
     "isActive": false,
     "source": "https://github.com/trending/modula-3"
   },
@@ -2275,7 +2275,7 @@
   },
   {
     "label": "Monkey",
-    "color": "",
+    "color": "9e6a03",
     "isActive": false,
     "source": "https://github.com/trending/monkey"
   },
@@ -2287,19 +2287,19 @@
   },
   {
     "label": "Moocode",
-    "color": "",
+    "color": "9e6a03",
     "isActive": false,
     "source": "https://github.com/trending/moocode"
   },
   {
     "label": "MoonScript",
-    "color": "",
+    "color": "ff4585",
     "isActive": false,
     "source": "https://github.com/trending/moonscript"
   },
   {
     "label": "Motoko",
-    "color": "",
+    "color": "fbb03b",
     "isActive": false,
     "source": "https://github.com/trending/motoko"
   },
@@ -2311,25 +2311,25 @@
   },
   {
     "label": "Move",
-    "color": "",
+    "color": "4a137a",
     "isActive": false,
     "source": "https://github.com/trending/move"
   },
   {
     "label": "MQL4",
-    "color": "",
+    "color": "62a8d6",
     "isActive": false,
     "source": "https://github.com/trending/mql4"
   },
   {
     "label": "MQL5",
-    "color": "",
+    "color": "4a76b8",
     "isActive": false,
     "source": "https://github.com/trending/mql5"
   },
   {
     "label": "MTML",
-    "color": "",
+    "color": "b7e1f4",
     "isActive": false,
     "source": "https://github.com/trending/mtml"
   },
@@ -2341,7 +2341,7 @@
   },
   {
     "label": "mupad",
-    "color": "",
+    "color": "244963",
     "isActive": false,
     "source": "https://github.com/trending/mupad"
   },
@@ -2371,13 +2371,13 @@
   },
   {
     "label": "Nasal",
-    "color": "",
+    "color": "1d2c4e",
     "isActive": false,
     "source": "https://github.com/trending/nasal"
   },
   {
     "label": "NASL",
-    "color": "ccc",
+    "color": "9e6a03",
     "isActive": false,
     "source": "https://github.com/trending/nasl"
   },
@@ -2389,13 +2389,13 @@
   },
   {
     "label": "Nearley",
-    "color": "",
+    "color": "990000",
     "isActive": false,
     "source": "https://github.com/trending/nearley"
   },
   {
     "label": "Nemerle",
-    "color": "",
+    "color": "3d3c6e",
     "isActive": false,
     "source": "https://github.com/trending/nemerle"
   },
@@ -2413,7 +2413,7 @@
   },
   {
     "label": "NetLinx",
-    "color": "",
+    "color": "0aa0ff",
     "isActive": false,
     "source": "https://github.com/trending/netlinx"
   },
@@ -2425,13 +2425,13 @@
   },
   {
     "label": "NetLogo",
-    "color": "",
+    "color": "ff6375",
     "isActive": false,
     "source": "https://github.com/trending/netlogo"
   },
   {
     "label": "NewLisp",
-    "color": "",
+    "color": "87aed7",
     "isActive": false,
     "source": "https://github.com/trending/newlisp"
   },
@@ -2443,7 +2443,7 @@
   },
   {
     "label": "Nginx",
-    "color": "",
+    "color": "009639",
     "isActive": false,
     "source": "https://github.com/trending/nginx"
   },
@@ -2461,7 +2461,7 @@
   },
   {
     "label": "Nit",
-    "color": "",
+    "color": "009917",
     "isActive": false,
     "source": "https://github.com/trending/nit"
   },
@@ -2485,13 +2485,13 @@
   },
   {
     "label": "NSIS",
-    "color": "ccc",
+    "color": "9e6a03",
     "isActive": false,
     "source": "https://github.com/trending/nsis"
   },
   {
     "label": "Nu",
-    "color": "",
+    "color": "c9df40",
     "isActive": false,
     "source": "https://github.com/trending/nu"
   },
@@ -2503,19 +2503,19 @@
   },
   {
     "label": "Nunjucks",
-    "color": "",
+    "color": "3d8137",
     "isActive": false,
     "source": "https://github.com/trending/nunjucks"
   },
   {
     "label": "Nushell",
-    "color": "",
+    "color": "4e9906",
     "isActive": false,
     "source": "https://github.com/trending/nushell"
   },
   {
     "label": "NWScript",
-    "color": "",
+    "color": "111522",
     "isActive": false,
     "source": "https://github.com/trending/nwscript"
   },
@@ -2563,13 +2563,13 @@
   },
   {
     "label": "Objective-J",
-    "color": "",
+    "color": "ff0c5a",
     "isActive": false,
     "source": "https://github.com/trending/objective-j"
   },
   {
     "label": "ObjectScript",
-    "color": "",
+    "color": "424893",
     "isActive": false,
     "source": "https://github.com/trending/objectscript"
   },
@@ -2587,25 +2587,25 @@
   },
   {
     "label": "Omgrofl",
-    "color": "",
+    "color": "cabbff",
     "isActive": false,
     "source": "https://github.com/trending/omgrofl"
   },
   {
     "label": "ooc",
-    "color": "",
+    "color": "b0b77e",
     "isActive": false,
     "source": "https://github.com/trending/ooc"
   },
   {
     "label": "Opa",
-    "color": "",
+    "color": "9e6a03",
     "isActive": false,
     "source": "https://github.com/trending/opa"
   },
   {
     "label": "Opal",
-    "color": "",
+    "color": "f7ede0",
     "isActive": false,
     "source": "https://github.com/trending/opal"
   },
@@ -2635,13 +2635,13 @@
   },
   {
     "label": "OpenEdge ABL",
-    "color": "",
+    "color": "5ce600",
     "isActive": false,
     "source": "https://github.com/trending/openedge-abl"
   },
   {
     "label": "OpenQASM",
-    "color": "",
+    "color": "aa70ff",
     "isActive": false,
     "source": "https://github.com/trending/openqasm"
   },
@@ -2677,25 +2677,25 @@
   },
   {
     "label": "Org",
-    "color": "",
+    "color": "77aa99",
     "isActive": false,
     "source": "https://github.com/trending/org"
   },
   {
     "label": "Ox",
-    "color": "",
+    "color": "9e6a03",
     "isActive": false,
     "source": "https://github.com/trending/ox"
   },
   {
     "label": "Oxygene",
-    "color": "",
+    "color": "cdd0e3",
     "isActive": false,
     "source": "https://github.com/trending/oxygene"
   },
   {
     "label": "Oz",
-    "color": "",
+    "color": "fab738",
     "isActive": false,
     "source": "https://github.com/trending/oz"
   },
@@ -2707,25 +2707,25 @@
   },
   {
     "label": "Pact",
-    "color": "",
+    "color": "f7a8b8",
     "isActive": false,
     "source": "https://github.com/trending/pact"
   },
   {
     "label": "Pan",
-    "color": "",
+    "color": "cc0000",
     "isActive": false,
     "source": "https://github.com/trending/pan"
   },
   {
     "label": "Papyrus",
-    "color": "",
+    "color": "6600cc",
     "isActive": false,
     "source": "https://github.com/trending/papyrus"
   },
   {
     "label": "Parrot",
-    "color": "",
+    "color": "f3ca0a",
     "isActive": false,
     "source": "https://github.com/trending/parrot"
   },
@@ -2749,25 +2749,25 @@
   },
   {
     "label": "Pawn",
-    "color": "",
+    "color": "dbb284",
     "isActive": false,
     "source": "https://github.com/trending/pawn"
   },
   {
     "label": "PDDL",
-    "color": "",
+    "color": "0d00ff",
     "isActive": false,
     "source": "https://github.com/trending/pddl"
   },
   {
     "label": "PEG.js",
-    "color": "",
+    "color": "234d6b",
     "isActive": false,
     "source": "https://github.com/trending/peg.js"
   },
   {
     "label": "Pep8",
-    "color": "",
+    "color": "c76f5b",
     "isActive": false,
     "source": "https://github.com/trending/pep8"
   },
@@ -2797,19 +2797,19 @@
   },
   {
     "label": "PicoLisp",
-    "color": "",
+    "color": "6067af",
     "isActive": false,
     "source": "https://github.com/trending/picolisp"
   },
   {
     "label": "PigLatin",
-    "color": "",
+    "color": "fcd7de",
     "isActive": false,
     "source": "https://github.com/trending/piglatin"
   },
   {
     "label": "Pike",
-    "color": "",
+    "color": "005390",
     "isActive": false,
     "source": "https://github.com/trending/pike"
   },
@@ -2833,31 +2833,31 @@
   },
   {
     "label": "Pod",
-    "color": "",
+    "color": "9e6a03",
     "isActive": false,
     "source": "https://github.com/trending/pod"
   },
   {
     "label": "Pod 6",
-    "color": "",
+    "color": "9e6a03",
     "isActive": false,
     "source": "https://github.com/trending/pod-6"
   },
   {
     "label": "PogoScript",
-    "color": "",
+    "color": "d80074",
     "isActive": false,
     "source": "https://github.com/trending/pogoscript"
   },
   {
     "label": "Polar",
-    "color": "",
+    "color": "ae81ff",
     "isActive": false,
     "source": "https://github.com/trending/polar"
   },
   {
     "label": "Pony",
-    "color": "",
+    "color": "9e6a03",
     "isActive": false,
     "source": "https://github.com/trending/pony"
   },
@@ -2881,13 +2881,13 @@
   },
   {
     "label": "POV-Ray SDL",
-    "color": "",
+    "color": "6bac65",
     "isActive": false,
     "source": "https://github.com/trending/pov-ray-sdl"
   },
   {
     "label": "PowerBuilder",
-    "color": "",
+    "color": "8f0f8d",
     "isActive": false,
     "source": "https://github.com/trending/powerbuilder"
   },
@@ -2899,7 +2899,7 @@
   },
   {
     "label": "Praat",
-    "color": "",
+    "color": "c8506d",
     "isActive": false,
     "source": "https://github.com/trending/praat"
   },
@@ -2911,19 +2911,19 @@
   },
   {
     "label": "Processing",
-    "color": "",
+    "color": "0096d8",
     "isActive": false,
     "source": "https://github.com/trending/processing"
   },
   {
     "label": "Procfile",
-    "color": "",
+    "color": "3b2f63",
     "isActive": false,
     "source": "https://github.com/trending/procfile"
   },
   {
     "label": "Proguard",
-    "color": "",
+    "color": "9e6a03",
     "isActive": false,
     "source": "https://github.com/trending/proguard"
   },
@@ -2935,13 +2935,13 @@
   },
   {
     "label": "Promela",
-    "color": "",
+    "color": "de0000",
     "isActive": false,
     "source": "https://github.com/trending/promela"
   },
   {
     "label": "Propeller Spin",
-    "color": "",
+    "color": "7fa2a7",
     "isActive": false,
     "source": "https://github.com/trending/propeller-spin"
   },
@@ -2977,7 +2977,7 @@
   },
   {
     "label": "Pure Data",
-    "color": "",
+    "color": "9e6a03",
     "isActive": false,
     "source": "https://github.com/trending/pure-data"
   },
@@ -2995,7 +2995,7 @@
   },
   {
     "label": "Pyret",
-    "color": "",
+    "color": "ee1e10",
     "isActive": false,
     "source": "https://github.com/trending/pyret"
   },
@@ -3019,19 +3019,19 @@
   },
   {
     "label": "q",
-    "color": "",
+    "color": "0040cd",
     "isActive": false,
     "source": "https://github.com/trending/q"
   },
   {
     "label": "Q#",
-    "color": "",
+    "color": "fed659",
     "isActive": false,
     "source": "https://github.com/trending/q%23"
   },
   {
     "label": "QMake",
-    "color": "",
+    "color": "9e6a03",
     "isActive": false,
     "source": "https://github.com/trending/qmake"
   },
@@ -3049,7 +3049,7 @@
   },
   {
     "label": "Quake",
-    "color": "",
+    "color": "882233",
     "isActive": false,
     "source": "https://github.com/trending/quake"
   },
@@ -3067,7 +3067,7 @@
   },
   {
     "label": "Ragel",
-    "color": "",
+    "color": "9d5200",
     "isActive": false,
     "source": "https://github.com/trending/ragel"
   },
@@ -3079,13 +3079,13 @@
   },
   {
     "label": "RAML",
-    "color": "",
+    "color": "77d9fb",
     "isActive": false,
     "source": "https://github.com/trending/raml"
   },
   {
     "label": "Rascal",
-    "color": "",
+    "color": "fffaa0",
     "isActive": false,
     "source": "https://github.com/trending/rascal"
   },
@@ -3103,7 +3103,7 @@
   },
   {
     "label": "RDoc",
-    "color": "",
+    "color": "701516",
     "isActive": false,
     "source": "https://github.com/trending/rdoc"
   },
@@ -3115,13 +3115,13 @@
   },
   {
     "label": "REALbasic",
-    "color": "",
+    "color": "9e6a03",
     "isActive": false,
     "source": "https://github.com/trending/realbasic"
   },
   {
     "label": "Reason",
-    "color": "",
+    "color": "ff5847",
     "isActive": false,
     "source": "https://github.com/trending/reason"
   },
@@ -3133,7 +3133,7 @@
   },
   {
     "label": "Rebol",
-    "color": "",
+    "color": "358a5b",
     "isActive": false,
     "source": "https://github.com/trending/rebol"
   },
@@ -3145,7 +3145,7 @@
   },
   {
     "label": "Red",
-    "color": "",
+    "color": "f50000",
     "isActive": false,
     "source": "https://github.com/trending/red"
   },
@@ -3175,7 +3175,7 @@
   },
   {
     "label": "RenderScript",
-    "color": "",
+    "color": "9e6a03",
     "isActive": false,
     "source": "https://github.com/trending/renderscript"
   },
@@ -3193,7 +3193,7 @@
   },
   {
     "label": "REXX",
-    "color": "",
+    "color": "d90e09",
     "isActive": false,
     "source": "https://github.com/trending/rexx"
   },
@@ -3205,13 +3205,13 @@
   },
   {
     "label": "Rich Text Format",
-    "color": "ccc",
+    "color": "9e6a03",
     "isActive": false,
     "source": "https://github.com/trending/rich-text-format"
   },
   {
     "label": "Ring",
-    "color": "",
+    "color": "2d54cb",
     "isActive": false,
     "source": "https://github.com/trending/ring"
   },
@@ -3253,7 +3253,7 @@
   },
   {
     "label": "Rouge",
-    "color": "",
+    "color": "cc0088",
     "isActive": false,
     "source": "https://github.com/trending/rouge"
   },
@@ -3265,19 +3265,19 @@
   },
   {
     "label": "RPC",
-    "color": "",
+    "color": "9e6a03",
     "isActive": false,
     "source": "https://github.com/trending/rpc"
   },
   {
     "label": "RPGLE",
-    "color": "",
+    "color": "2bde21",
     "isActive": false,
     "source": "https://github.com/trending/rpgle"
   },
   {
     "label": "RPM Spec",
-    "color": "ccc",
+    "color": "",
     "isActive": false,
     "source": "https://github.com/trending/rpm-spec"
   },
@@ -3289,7 +3289,7 @@
   },
   {
     "label": "RUNOFF",
-    "color": "",
+    "color": "665a4e",
     "isActive": false,
     "source": "https://github.com/trending/runoff"
   },
@@ -3301,7 +3301,7 @@
   },
   {
     "label": "Sage",
-    "color": "",
+    "color": "9e6a03",
     "isActive": false,
     "source": "https://github.com/trending/sage"
   },
@@ -3313,7 +3313,7 @@
   },
   {
     "label": "SAS",
-    "color": "",
+    "color": "b34936",
     "isActive": false,
     "source": "https://github.com/trending/sas"
   },
@@ -3349,7 +3349,7 @@
   },
   {
     "label": "Scilab",
-    "color": "",
+    "color": "ca0f21",
     "isActive": false,
     "source": "https://github.com/trending/scilab"
   },
@@ -3361,13 +3361,13 @@
   },
   {
     "label": "sed",
-    "color": "",
+    "color": "64b970",
     "isActive": false,
     "source": "https://github.com/trending/sed"
   },
   {
     "label": "Self",
-    "color": "",
+    "color": "0579aa",
     "isActive": false,
     "source": "https://github.com/trending/self"
   },
@@ -3403,13 +3403,13 @@
   },
   {
     "label": "Shen",
-    "color": "",
+    "color": "120f14",
     "isActive": false,
     "source": "https://github.com/trending/shen"
   },
   {
     "label": "Sieve",
-    "color": "",
+    "color": "9e6a03",
     "isActive": false,
     "source": "https://github.com/trending/sieve"
   },
@@ -3421,13 +3421,13 @@
   },
   {
     "label": "Singularity",
-    "color": "",
+    "color": "64e6ad",
     "isActive": false,
     "source": "https://github.com/trending/singularity"
   },
   {
     "label": "Slash",
-    "color": "",
+    "color": "007eff",
     "isActive": false,
     "source": "https://github.com/trending/slash"
   },
@@ -3439,13 +3439,13 @@
   },
   {
     "label": "Slim",
-    "color": "",
+    "color": "2b2b2b",
     "isActive": false,
     "source": "https://github.com/trending/slim"
   },
   {
     "label": "Smali",
-    "color": "ccc",
+    "color": "9e6a03",
     "isActive": false,
     "source": "https://github.com/trending/smali"
   },
@@ -3463,19 +3463,19 @@
   },
   {
     "label": "Smithy",
-    "color": "",
+    "color": "c44536",
     "isActive": false,
     "source": "https://github.com/trending/smithy"
   },
   {
     "label": "SmPL",
-    "color": "",
+    "color": "c94949",
     "isActive": false,
     "source": "https://github.com/trending/smpl"
   },
   {
     "label": "SMT",
-    "color": "",
+    "color": "9e6a03",
     "isActive": false,
     "source": "https://github.com/trending/smt"
   },
@@ -3499,7 +3499,7 @@
   },
   {
     "label": "SourcePawn",
-    "color": "",
+    "color": "f69e1d",
     "isActive": false,
     "source": "https://github.com/trending/sourcepawn"
   },
@@ -3517,19 +3517,19 @@
   },
   {
     "label": "SQF",
-    "color": "",
+    "color": "3f3f3f",
     "isActive": false,
     "source": "https://github.com/trending/sqf"
   },
   {
     "label": "SQL",
-    "color": "",
+    "color": "e38c00",
     "isActive": false,
     "source": "https://github.com/trending/sql"
   },
   {
     "label": "SQLPL",
-    "color": "",
+    "color": "e38d00",
     "isActive": false,
     "source": "https://github.com/trending/sqlpl"
   },
@@ -3553,7 +3553,7 @@
   },
   {
     "label": "Stan",
-    "color": "",
+    "color": "b2011d",
     "isActive": false,
     "source": "https://github.com/trending/stan"
   },
@@ -3565,7 +3565,7 @@
   },
   {
     "label": "STAR",
-    "color": "",
+    "color": "9e6a03",
     "isActive": false,
     "source": "https://github.com/trending/star"
   },
@@ -3577,13 +3577,13 @@
   },
   {
     "label": "Stata",
-    "color": "",
+    "color": "1a5f91",
     "isActive": false,
     "source": "https://github.com/trending/stata"
   },
   {
     "label": "STL",
-    "color": "",
+    "color": "373b5e",
     "isActive": false,
     "source": "https://github.com/trending/stl"
   },
@@ -3595,7 +3595,7 @@
   },
   {
     "label": "StringTemplate",
-    "color": "",
+    "color": "3fb34f",
     "isActive": false,
     "source": "https://github.com/trending/stringtemplate"
   },
@@ -3613,13 +3613,13 @@
   },
   {
     "label": "SugarSS",
-    "color": "",
+    "color": "2fcc9f",
     "isActive": false,
     "source": "https://github.com/trending/sugarss"
   },
   {
     "label": "SuperCollider",
-    "color": "",
+    "color": "46390b",
     "isActive": false,
     "source": "https://github.com/trending/supercollider"
   },
@@ -3655,7 +3655,7 @@
   },
   {
     "label": "SWIG",
-    "color": "ccc",
+    "color": "9e6a03",
     "isActive": false,
     "source": "https://github.com/trending/swig"
   },
@@ -3667,7 +3667,7 @@
   },
   {
     "label": "Talon",
-    "color": "",
+    "color": "333333",
     "isActive": false,
     "source": "https://github.com/trending/talon"
   },
@@ -3685,13 +3685,13 @@
   },
   {
     "label": "Tea",
-    "color": "",
+    "color": "9e6a03",
     "isActive": false,
     "source": "https://github.com/trending/tea"
   },
   {
     "label": "Terra",
-    "color": "",
+    "color": "00004c",
     "isActive": false,
     "source": "https://github.com/trending/terra"
   },
@@ -3715,13 +3715,13 @@
   },
   {
     "label": "Text",
-    "color": "ccc",
+    "color": "9e6a03",
     "isActive": false,
     "source": "https://github.com/trending/text"
   },
   {
     "label": "Textile",
-    "color": "",
+    "color": "ffe7ac",
     "isActive": false,
     "source": "https://github.com/trending/textile"
   },
@@ -3745,25 +3745,25 @@
   },
   {
     "label": "TL-Verilog",
-    "color": "",
+    "color": "c40023",
     "isActive": false,
     "source": "https://github.com/trending/tl-verilog"
   },
   {
     "label": "TLA",
-    "color": "",
+    "color": "4b0079",
     "isActive": false,
     "source": "https://github.com/trending/tla"
   },
   {
     "label": "Toit",
-    "color": "",
+    "color": "c2c9fb",
     "isActive": false,
     "source": "https://github.com/trending/toit"
   },
   {
     "label": "TOML",
-    "color": "",
+    "color": "9c4221",
     "isActive": false,
     "source": "https://github.com/trending/toml"
   },
@@ -3787,7 +3787,7 @@
   },
   {
     "label": "Turing",
-    "color": "",
+    "color": "cf142b",
     "isActive": false,
     "source": "https://github.com/trending/turing"
   },
@@ -3805,7 +3805,7 @@
   },
   {
     "label": "TXL",
-    "color": "",
+    "color": "0178b8",
     "isActive": false,
     "source": "https://github.com/trending/txl"
   },
@@ -3847,19 +3847,19 @@
   },
   {
     "label": "Uno",
-    "color": "",
+    "color": "9933cc",
     "isActive": false,
     "source": "https://github.com/trending/uno"
   },
   {
     "label": "UnrealScript",
-    "color": "",
+    "color": "a54c4d",
     "isActive": false,
     "source": "https://github.com/trending/unrealscript"
   },
   {
     "label": "UrWeb",
-    "color": "",
+    "color": "ccccee",
     "isActive": false,
     "source": "https://github.com/trending/urweb"
   },
@@ -3883,7 +3883,7 @@
   },
   {
     "label": "VBA",
-    "color": "",
+    "color": "867db1",
     "isActive": false,
     "source": "https://github.com/trending/vba"
   },
@@ -3895,7 +3895,7 @@
   },
   {
     "label": "VCL",
-    "color": "",
+    "color": "148aa8",
     "isActive": false,
     "source": "https://github.com/trending/vcl"
   },
@@ -3931,7 +3931,7 @@
   },
   {
     "label": "Vim Snippet",
-    "color": "",
+    "color": "199f4b",
     "isActive": false,
     "source": "https://github.com/trending/vim-snippet"
   },
@@ -3943,13 +3943,13 @@
   },
   {
     "label": "Visual Basic 6.0",
-    "color": "",
+    "color": "2c6353",
     "isActive": false,
     "source": "https://github.com/trending/visual-basic-6.0"
   },
   {
     "label": "Volt",
-    "color": "",
+    "color": "1f1f1f",
     "isActive": false,
     "source": "https://github.com/trending/volt"
   },
@@ -3961,13 +3961,13 @@
   },
   {
     "label": "Vyper",
-    "color": "",
+    "color": "2980b9",
     "isActive": false,
     "source": "https://github.com/trending/vyper"
   },
   {
     "label": "Wavefront Material",
-    "color": "",
+    "color": "9e6a03",
     "isActive": false,
     "source": "https://github.com/trending/wavefront-material"
   },
@@ -3979,13 +3979,13 @@
   },
   {
     "label": "WDL",
-    "color": "",
+    "color": "42f1f4",
     "isActive": false,
     "source": "https://github.com/trending/wdl"
   },
   {
     "label": "Web Ontology Language",
-    "color": "",
+    "color": "5b70bd",
     "isActive": false,
     "source": "https://github.com/trending/web-ontology-language"
   },
@@ -4003,13 +4003,13 @@
   },
   {
     "label": "WebIDL",
-    "color": "",
+    "color": "9e6a03",
     "isActive": false,
     "source": "https://github.com/trending/webidl"
   },
   {
     "label": "WebVTT",
-    "color": "",
+    "color": "9e6a03",
     "isActive": false,
     "source": "https://github.com/trending/webvtt"
   },
@@ -4021,19 +4021,19 @@
   },
   {
     "label": "WGSL",
-    "color": "",
+    "color": "1a5e9a",
     "isActive": false,
     "source": "https://github.com/trending/wgsl"
   },
   {
     "label": "Whiley",
-    "color": "",
+    "color": "d5c397",
     "isActive": false,
     "source": "https://github.com/trending/whiley"
   },
   {
     "label": "Wikitext",
-    "color": "",
+    "color": "fc5757",
     "isActive": false,
     "source": "https://github.com/trending/wikitext"
   },
@@ -4051,7 +4051,7 @@
   },
   {
     "label": "wisp",
-    "color": "",
+    "color": "7582d1",
     "isActive": false,
     "source": "https://github.com/trending/wisp"
   },
@@ -4063,7 +4063,7 @@
   },
   {
     "label": "Wollok",
-    "color": "",
+    "color": "a23738",
     "isActive": false,
     "source": "https://github.com/trending/wollok"
   },
@@ -4075,7 +4075,7 @@
   },
   {
     "label": "Wren",
-    "color": "",
+    "color": "383838",
     "isActive": false,
     "source": "https://github.com/trending/wren"
   },
@@ -4099,13 +4099,13 @@
   },
   {
     "label": "X10",
-    "color": "",
+    "color": "4b6bef",
     "isActive": false,
     "source": "https://github.com/trending/x10"
   },
   {
     "label": "xBase",
-    "color": "",
+    "color": "403a40",
     "isActive": false,
     "source": "https://github.com/trending/xbase"
   },
@@ -4123,7 +4123,7 @@
   },
   {
     "label": "XML",
-    "color": "",
+    "color": "0060ac",
     "isActive": false,
     "source": "https://github.com/trending/xml"
   },
@@ -4135,25 +4135,25 @@
   },
   {
     "label": "Xojo",
-    "color": "",
+    "color": "81bd41",
     "isActive": false,
     "source": "https://github.com/trending/xojo"
   },
   {
     "label": "Xonsh",
-    "color": "",
+    "color": "285eef",
     "isActive": false,
     "source": "https://github.com/trending/xonsh"
   },
   {
     "label": "XPages",
-    "color": "",
+    "color": "9e6a03",
     "isActive": false,
     "source": "https://github.com/trending/xpages"
   },
   {
     "label": "XProc",
-    "color": "",
+    "color": "9e6a03",
     "isActive": false,
     "source": "https://github.com/trending/xproc"
   },
@@ -4165,7 +4165,7 @@
   },
   {
     "label": "XS",
-    "color": "",
+    "color": "9e6a03",
     "isActive": false,
     "source": "https://github.com/trending/xs"
   },
@@ -4177,13 +4177,13 @@
   },
   {
     "label": "Xtend",
-    "color": "",
+    "color": "24255d",
     "isActive": false,
     "source": "https://github.com/trending/xtend"
   },
   {
     "label": "Yacc",
-    "color": "",
+    "color": "4b6c4b",
     "isActive": false,
     "source": "https://github.com/trending/yacc"
   },
@@ -4195,7 +4195,7 @@
   },
   {
     "label": "YANG",
-    "color": "",
+    "color": "9e6a03",
     "isActive": false,
     "source": "https://github.com/trending/yang"
   },
@@ -4207,37 +4207,37 @@
   },
   {
     "label": "YASnippet",
-    "color": "",
+    "color": "32ab90",
     "isActive": false,
     "source": "https://github.com/trending/yasnippet"
   },
   {
     "label": "Yul",
-    "color": "",
+    "color": "794932",
     "isActive": false,
     "source": "https://github.com/trending/yul"
   },
   {
     "label": "ZAP",
-    "color": "",
+    "color": "0d665e",
     "isActive": false,
     "source": "https://github.com/trending/zap"
   },
   {
     "label": "Zeek",
-    "color": "",
+    "color": "9e6a03",
     "isActive": false,
     "source": "https://github.com/trending/zeek"
   },
   {
     "label": "ZenScript",
-    "color": "",
+    "color": "00bcd1",
     "isActive": false,
     "source": "https://github.com/trending/zenscript"
   },
   {
     "label": "Zephir",
-    "color": "",
+    "color": "118f9e",
     "isActive": false,
     "source": "https://github.com/trending/zephir"
   },
@@ -4249,13 +4249,13 @@
   },
   {
     "label": "ZIL",
-    "color": "",
+    "color": "dc75e5",
     "isActive": false,
     "source": "https://github.com/trending/zil"
   },
   {
     "label": "Zimpl",
-    "color": "",
+    "color": "d67711",
     "isActive": false,
     "source": "https://github.com/trending/zimpl"
   }
