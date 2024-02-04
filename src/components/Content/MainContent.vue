@@ -43,8 +43,8 @@ main {
   display: flex;
   justify-content: center;
   width: 50%;
-  margin: 0 auto;
-  padding: 1em 0;
+  margin: 1em auto;
+  padding: 1em 0 5em 0;
 }
 
 ul {
