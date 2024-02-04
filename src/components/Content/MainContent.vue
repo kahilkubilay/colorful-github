@@ -1,7 +1,7 @@
 <template>
   <main>
     <ul>
-      <ColorItem :items="items" @userSelectedColor="handlePopUp" />
+      <ColorItem v-for="(item, index) in items" :key="index" :item="item" @userSelectedColor="handlePopUp"/>
     </ul>
 
     <PopUp :firePopup="firePopup" :selectedColor="selectedColor" :selectedLabel="selectedLabel" />

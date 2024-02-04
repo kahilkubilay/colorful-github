@@ -1,8 +1,8 @@
-<template>
-  <li v-for="item in items" :key="item.color" @mouseover="item.isActive = true" @mouseleave="item.isActive = false"
+<template >
+  <li v-if="item.color" @mouseover="isActive = true" @mouseleave="isActive = false"
     @click="copyColorCode(item.color, item.label)" :style="[{
-      'background-color': item.isActive ? `#${item.color}` : '',
-      'color': item.isActive ? `#fff` : ''
+      'background-color': isActive ? `#${item.color}` : '',
+      'color': isActive ? `#fff` : ''
     }]">
     <div class="symbol">
       <span :style="[{ 'background-color': `#${item.color}` }]"></span>
@@ -19,7 +19,7 @@
 <script>
 export default {
   name: 'ColorItem',
-  props: ['items'],
+  props: ['item'],
   data() {
     return {
       isActive: false,
