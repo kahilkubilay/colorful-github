@@ -1,7 +1,7 @@
 <template>
   <main>
     <ul>
-      <ColorItem v-for="(item, index) in items" :key="index" :item="item" @userSelectedColor="handlePopUp"/>
+      <ColorItem v-for="(item, index) in items" :key="index" :item="item" @userSelectedColor="handlePopUp" />
     </ul>
 
     <PopUp :firePopup="firePopup" :selectedColor="selectedColor" :selectedLabel="selectedLabel" />
@@ -51,5 +51,11 @@ ul {
   display: inherit;
   width: 100%;
   flex-direction: column;
+}
+
+@media only screen and (max-width: 768px) {
+  main {
+    width: 90%;
+  }
 }
 </style>

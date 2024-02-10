@@ -24,12 +24,15 @@ header {
   padding: 1em 0 .5em 0;
   background-color: #f2f2f2;
 }
+
 .logo {
   display: inherit;
 }
+
 .logo img {
   width: 10em;
 }
+
 .propaganda {
   display: inherit;
   flex-direction: inherit;
@@ -37,8 +40,9 @@ header {
   margin-top: 1em;
 }
 
-.propaganda h2, .propaganda p {
-  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+.propaganda h2,
+.propaganda p {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
 }
 
 .propaganda h2 {
@@ -48,5 +52,19 @@ header {
 .propaganda p {
   text-align: center;
   font-size: 1.2em;
+}
+
+@media only screen and (max-width: 768px) {
+  .logo img {
+    width: 5em;
+  }
+
+  .propaganda h2 {
+    font-size: 1.2em;
+  }
+
+  .propaganda p {
+    font-size: 1em;
+  }
 }
 </style>

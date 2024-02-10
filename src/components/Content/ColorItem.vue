@@ -46,6 +46,7 @@ export default {
 li {
   display: inherit;
   justify-content: space-between;
+  align-items: center;
   margin-bottom: .5em;
   border-radius: .5em;
   background-color: #f2f2f2;
@@ -59,6 +60,10 @@ li div {
   justify-content: center;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
   font-size: 1.1em;
+}
+
+.label span {
+  text-align: center;
 }
 
 .symbol span {
